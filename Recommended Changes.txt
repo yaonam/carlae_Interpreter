@@ -1,0 +1,4 @@
+recognized operands (unecessary)
+class name capitalized
+move special cases out of env
+callable to check to see if functions
